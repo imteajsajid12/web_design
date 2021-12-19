@@ -1,0 +1,49 @@
+body
+{
+    background-color: hsl(0, 0%, 100%);
+    font-family: 'Lobster', cursive;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+/*font-family: 'Roboto Condensed', sans-serif;*/
+}
+.name
+{
+    color: rgb(238, 115, 0);
+}
+.haf-width
+{
+   float: left;
+   width: 40%;
+   padding-left: 5%;
+   margin-left: 2%;
+}
+.haf-width img
+{
+width: 100%;
+}
+.top_banner
+{
+background-image: url("/image/top-banner.png");
+background-repeat: no-repeat;
+
+
+}
+section{
+    height: 700px
+    /*width: 100%;*/
+
+}
+.btn{
+   text-decoration: none;
+   background-image:linear-gradient(orange, red);
+   padding: 10px 20px;
+border-radius: 5px;
+text-align: center;
+color: #f5f5f5;
+font: bold 15px/100% "lucida grande", Tahoma, Verdana, sans-serif;
+}
+.buttom-banner
+{
+    background-repeat: no-repeat;
+}
+
