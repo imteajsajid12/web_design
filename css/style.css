@@ -1,0 +1,90 @@
+body {
+    padding: 0%;
+    margin: 0%;
+    font-family: "Lobster", cursive;
+    font-family: "Roboto", sans-serif;
+    font-family: "Roboto Condensed", sans-serif;
+}
+.name {
+    color: rgb(212, 14, 14);
+    font: bold;
+    margin: 5%;
+}
+.top-section {
+    background-image: url("/image/header-bg.png");
+    background-repeat: no-repeat;
+}
+.meddle-section {
+    background-image: url("/image/biography-bg.png");
+    background-repeat: no-repeat;
+}
+.last-section {
+    background-image: url("/image/latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+.futter-section {
+    background-image: url("/image/latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+.last-section h1 {
+    text-align: center;
+}
+.top-banner {
+    float: left;
+    width: 40%;
+    padding-left: 4%;
+    margin-left: 2%;
+}
+.top-banner img {
+    width: 70%;
+}
+section {
+    height: 500px;
+}
+.latest-work {
+    display: flex;
+    padding: 7%;
+    width: 100%;
+    padding-left: 4%;
+}
+.latest-work img {
+    width: 30%;
+}
+.futter-work {
+    text-align: center;
+    padding: 2%;
+}
+.futter-section h1 {
+    text-align: center;
+}
+.futter-box {
+    text-align: center;
+    box-shadow: 10px 10px 40px;
+    border-radius: 5px;
+    height: 30%;
+    text-emphasis: none;
+    /*border-left: 7px solid;*/
+    width: 50%;
+    background-image: linear-gradient(
+        rgba(218, 115, 31, 0.863),
+        rgb(197, 5, 5)
+    );
+    margin: auto;
+}
+.futter_test
+{
+
+    text-align: center;
+}
+.btn {
+    text-decoration: none;
+    background-image: linear-gradient(
+        rgba(218, 115, 31, 0.863),
+        rgb(197, 5, 5)
+    );
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    font: bold 15px/100% "lucida grande", Tahoma, Verdana, sans-serif;
+}
