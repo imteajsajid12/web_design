@@ -1,0 +1,32 @@
+
+*{
+    padding: 0%;
+    margin: 0%;
+  
+}
+.nav-right{
+    float: right;
+}
+.container{
+    margin-bottom: 100px;
+}
+.carousel-indicators button{
+    height: 9px;
+    background-image: linear-gradient(to bottom, #d37911 0%, #eca409 100%);
+    color: #fff;
+    border-radius: 30px;
+ 
+   
+}
+.btn-product{
+   color: #d37911;
+   float: right;
+}
+.card{
+    border:none;
+    box-shadow: 5px 5px 10px  lightgray;
+}
+/*.footer a{
+    color: #d37911;
+   width: 20px;
+}*/
