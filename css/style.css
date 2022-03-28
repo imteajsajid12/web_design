@@ -1,0 +1,94 @@
+* {
+  padding: 0%;
+  margin: 0%;
+}
+header {
+  /*height: 576px;*/
+  background-color: #f0fff0;
+   /*padding-bottom: 100px;*/
+
+}
+.container {
+  padding-bottom: 100px;
+}
+.banner {
+  /*padding: 70px;*/
+}
+.banner h1 {
+  font-family: "Poppins";
+  line-height: 70px;
+  font-size: 48px;
+  color: #21b573;
+}
+.btn {
+  border-radius: 33px;
+  background: #21b573;
+  /*width: 104px;*/
+  /*height: 43px;*/
+  color: rgb(243, 241, 239);
+}
+
+.navber {
+  background-color: #f0fff0;
+  color: #f0fff0;
+}
+.nav_logo {
+  width: 200px;
+}
+.nav-item {
+  padding: 2%;
+}
+.nav-btn {
+  border-radius: 33px;
+  background: #21b573;
+  width: 104px;
+  height: 43px;
+  color: rgb(243, 241, 239);
+}
+.box {
+  width: 270px;
+  height: 270px;
+  padding: 50px;
+  background: #ffffff;
+  box-shadow: 5px 20px 40px rgba(7, 7, 7, 0.1);
+  border-radius: 10px;
+
+}
+.logos {
+  width: 70px;
+  height: 100px;
+  /*display: block;*/
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 6%;
+}
+.main{
+  padding: 4%;
+}
+.card{
+  border: none;
+  box-shadow: 5px 5px 10px 10px rgba(0, 0, 0, 0.1);
+border-radius: 18px;
+}
+.course-title{
+  padding-bottom: 4%;
+  font-family: 'Poppins'
+}
+.man_img{
+height: 110px;
+}
+footer{
+height: 369px;
+background: #282531;
+}
+.footer-item{
+  color: #ffffff;
+  /*padding-bottom: 7%;*/
+  padding: 5%;
+}
+.last_footer{
+  background: #282531;
+}
+.last_footer p{
+  color: #f0fff0;
+}
